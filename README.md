@@ -1,4 +1,4 @@
-# SuperStore_Sales_Analysis
+# SuperStore_Sales_Analysis_And_Forecasting_PowerBi
 In this project we are analysing & forecasting future sales and creating dashboard of SuperStore sales data by using Power Bi
 
 ## Project Learnings
